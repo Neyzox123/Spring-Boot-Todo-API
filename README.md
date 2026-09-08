@@ -83,4 +83,4 @@ curl -X POST http://localhost:8080/todos \
 
 ## Credits
 
-Built by **Neyzox** as a learning project to compare Spring Boot with Node.js/Express, with guidance from Claude (Anthropic).
+Built by **Neyzox** for a project to learn Spring Boot.
